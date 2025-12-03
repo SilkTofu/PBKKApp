@@ -1,0 +1,3 @@
+run = "cd server && npm install && npm run dev"
+entrypoint = "server/index.js"
+language = "nodejs"
